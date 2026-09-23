@@ -1,3 +1,5 @@
+# SIR Simulation with Vaccination Strategies
+
 Simulation of an extended SIR epidemiological model with a vaccination compartment, comparing two intervention strategies: **preventive vaccination** (from the start of the outbreak) and **reactive vaccination** (triggered once infections cross a threshold).
 
 ## Description
