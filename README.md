@@ -74,9 +74,3 @@ The initial conditions are:
 We use the **Runge-Kutta 4(5) method (RK45)** through Python's `solve_ivp`.
 
 RK45 automatically adjusts the step size to control numerical error, allowing us to approximate the solutions of the differential equations.
-
-## References
-
-1. Marinov, T. T., & Marinova, R. S. (2022). *Adaptive SIR model with vaccination: simultaneous identification of rates and functions illustrated with COVID-19*. Scientific Reports, 12, 15688. https://doi.org/10.1038/s41598-022-20276-7
-
-2. Lin, L., Hamedmoghadam, H., Shorten, R., & Stone, L. (2024). *Quantifying indirect and direct vaccination effects arising in the SIR model*. Journal of the Royal Society Interface, 21(218), 20240299. https://doi.org/10.1098/rsif.2024.0299
