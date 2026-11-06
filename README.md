@@ -71,6 +71,6 @@ The initial conditions are:
 
 ### 5. Numerical Method
 
-We use the **Runge-Kutta 4(5) method (RK45)**
+We will use the **Runge-Kutta 4(5) method (RK45)** with **solve_ivp** from SciPy
 
 RK45 automatically adjusts the step size to control numerical error, allowing us to approximate the solutions of the differential equations.
