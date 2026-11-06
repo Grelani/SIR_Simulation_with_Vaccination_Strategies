@@ -58,40 +58,22 @@ $$
 
 Where:
 
-- \(\beta=0.3\): transmission rate
-- \(\gamma=0.1\): recovery rate
-- \(\nu(t)\): vaccination rate
-- \(N=1000\): total population
+- $\beta = 0.3$: transmission rate
+- $\gamma = 0.1$: recovery rate
+- $\nu(t)$: vaccination rate
+- $N = 1000$: total population
 
-The initial conditions are \(S(0)=999\), \(I(0)=1\), and \(R(0)=V(0)=0\).
+The initial conditions are:
+
+- $S(0) = 999$
+- $I(0) = 1$
+- $R(0) = V(0) = 0$
 
 ### 5. Numerical Method
 
 We use the **Runge-Kutta 4(5) method (RK45)** through Python's `solve_ivp`.
 
 RK45 automatically adjusts the step size to control numerical error, allowing us to approximate the solutions of the differential equations.
-
-### 6. Implementation
-
-The simulation uses Python, NumPy, SciPy, and Matplotlib.
-
-We compare three scenarios:
-
-1. No vaccination
-2. Preventive vaccination
-3. Reactive vaccination
-
-The results will show the maximum number of infected people, when the peak occurs, and how many people become infected or vaccinated.
-
-### 7. Verification
-
-We verify the model by checking that:
-
-- The total population remains constant: \(S+I+R+V=N\)
-- The model behaves as expected without vaccination
-- Numerical results converge as accuracy settings are improved
-
-Euler and RK4 will also be used for convergence comparisons.
 
 ## References
 
