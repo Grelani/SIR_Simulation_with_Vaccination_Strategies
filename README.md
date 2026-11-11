@@ -1,5 +1,15 @@
 # SIR Simulation with Vaccination Strategies
 
+## About
+
+This project was developed by **Grecia**, a Data Science student at the Escuela Nacional de Estudios Superiores (ENES) Morelia, UNAM, in Morelia, Mexico.
+
+It studies how the timing of vaccination changes the course of an outbreak, using an SIR model with a vaccinated group and comparing preventive and reactive strategies. It is part of my work on mathematical modeling and numerical simulation in Python.
+
+- GitHub: [@Grelani](https://github.com/Grelani)
+- Course: Simulation and modeling
+- Contact: greciaariaass@gmail.com
+- 
 ## Objective
 
 Simulate the spread of an infectious disease and compare two vaccination strategies:
