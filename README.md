@@ -9,7 +9,7 @@ It studies how the timing of vaccination changes the course of an outbreak, usin
 - GitHub: [@Grelani](https://github.com/Grelani)
 - Course: Simulation and modeling
 - Contact: greciaariaass@gmail.com
-- 
+
 ## Objective
 
 Simulate the spread of an infectious disease and compare two vaccination strategies:
