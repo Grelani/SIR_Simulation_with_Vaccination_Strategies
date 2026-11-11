@@ -2,7 +2,7 @@
 
 ## About
 
-This project was developed by **Grecia**, a Data Science student at the Escuela Nacional de Estudios Superiores (ENES) Morelia, UNAM, in Morelia, Mexico.
+This project was developed by **Grecia Arias**, a Data Science student at the Escuela Nacional de Estudios Superiores (ENES) Morelia, UNAM, in Morelia, Mexico.
 
 It studies how the timing of vaccination changes the course of an outbreak, using an SIR model with a vaccinated group and comparing preventive and reactive strategies. It is part of my work on mathematical modeling and numerical simulation in Python.
 
